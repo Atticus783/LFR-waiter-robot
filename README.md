@@ -48,12 +48,6 @@ LM2596 Buck Converter
 📡 Communication Systems
 Bluetooth Classic (mobile control & commands)
 Wi-Fi WebSocket (real-time monitoring dashboard)
-🎥 Project Demo
-
-Add your YouTube video here:
-
-https://www.youtube.com/watch?v=YOUR_VIDEO_ID
-📄 Documentation
 
 Full project report is available in the /report folder.
 
